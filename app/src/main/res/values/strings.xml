@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Whac-A-Mole</string>
+    <string name="Rules">Rules:\nTap on the mole</string>
+    <string name="Play">Play</string>
+    <string name="YourScore">Your score:\u0020</string>
+    <string name="YourMaxScore">Your max score:\u0020</string>
+    <string name="menu">menu</string>
+    <string name="play_again">play again</string>
+    <string name="Score">Score:\u0020</string>
+</resources>
